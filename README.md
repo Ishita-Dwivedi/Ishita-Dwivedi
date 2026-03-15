@@ -36,7 +36,6 @@ A task management application built with Spring Boot backend and React + Tailwin
 ## Connect With Me
 
 - GitHub: https://github.com/Ishita-Dwivedi
-- LinkedIn: (add your LinkedIn here)
 
 ---
 
